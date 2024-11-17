@@ -1,0 +1,12 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/flume-dao/front
+	branch = main
+[submodule "back"]
+	path = back
+	url = https://github.com/flume-dao/back
+	branch = main
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/flume-dao/contracts
+	branch = main
